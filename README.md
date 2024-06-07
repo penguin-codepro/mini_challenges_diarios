@@ -8,4 +8,4 @@ Cada día, publicaremos un nuevo desafío que te desafiará a pensar de manera c
 - Inversión de una Cadena:
   Escribe un programa que invierta una cadena de caracteres dada por el usuario.
 
-## ¡Feliz Apredizaje! 🚀🚀
+##### ¡Feliz Apredizaje! 🚀🚀
