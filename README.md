@@ -6,8 +6,8 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Apredizaje! 🚀🚀
 
-## DIA 1
-- Inversión de una Cadena:
-  Escribe un programa que invierta una cadena de caracteres dada por el usuario.
+## DIA 2
+- Tabla de Multiplicar:
+  Escribe un programa que muestre la tabla de multiplicar de un número dado por el usuario.
 
 
