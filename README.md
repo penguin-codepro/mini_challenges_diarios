@@ -6,8 +6,6 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Aprendizaje! 🚀🚀
 
-## DIA 2
-- Tabla de Multiplicar:
-  Escribe un programa que muestre la tabla de multiplicar de un número dado por el usuario.
-
+## DIA 3
+- Contar Vocales: Escribe un programa que cuente el número de vocales en una cadena dada.
 
