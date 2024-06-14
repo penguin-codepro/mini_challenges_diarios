@@ -6,6 +6,7 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Aprendizaje! 🚀🚀
 
-## DIA 3
-- Contar Vocales: Escribe un programa que cuente el número de vocales en una cadena dada.
+## DIA 4
+-  Ordenar Lista:
+  Escribe un programa que ordene una lista de números dada por el usuario en orden ascendente.
 
