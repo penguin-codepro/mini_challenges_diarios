@@ -6,7 +6,8 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Aprendizaje! 🚀🚀
 
-## DIA 4
--  Ordenar Lista:
-  Escribe un programa que ordene una lista de números dada por el usuario en orden ascendente.
+## DIA 5
+- Crear un Diccionario
+  Escribe un programa que cree un diccionario a partir de dos listas dadas: una de claves y otra de valores.
+
 
