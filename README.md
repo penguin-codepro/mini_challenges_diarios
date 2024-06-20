@@ -6,9 +6,11 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Aprendizaje! 🚀🚀
 
-## DIA 5
--  Conversión de Temperatura:
-  Escribe un programa que convierta una temperatura dada en grados Celsius a grados Fahrenheit.
+## DIA 6
+- Juego de Piedra, Papel o Tijeras: Escribe un programa que permita al usuario jugar piedra, papel o tijeras contra la computadora.
+
+## DIA 7
+-  Generador de Contraseñas Seguras: Escribe un programa que genere una contraseña segura de longitud variable (entre 8 y 16 caracteres) que incluya letras mayúsculas, minúsculas, números y símbolos.
 
 
 
