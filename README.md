@@ -6,11 +6,9 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Aprendizaje! 🚀🚀
 
-## DIA 6
-- Juego de Piedra, Papel o Tijeras: Escribe un programa que permita al usuario jugar piedra, papel o tijeras contra la computadora.
+## DIA 8
+- Escribir un programa que pida al usuario dos números y los sume. ¡Pero esta vez hazlo en C++! :)
 
-## DIA 7
--  Generador de Contraseñas Seguras: Escribe un programa que genere una contraseña segura de longitud variable (entre 8 y 16 caracteres) que incluya letras mayúsculas, minúsculas, números y símbolos.
 
 
 
