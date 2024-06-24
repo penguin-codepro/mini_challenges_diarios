@@ -6,8 +6,11 @@ Cada día, publicaremos un nuevo ejercicio que te desafiará a pensar de manera 
 
 ##### ¡Feliz Aprendizaje! 🚀🚀
 
-## DIA 8
-- Escribir un programa que pida al usuario dos números y los sume. ¡Pero esta vez hazlo en C++! :)
+## DIA 9
+- Ordenamiento de un Array: Escribir un programa que ordene un array de enteros utilizando ¡Pero hazlo en C++! :)
+
+## DIA 10
+- Palíndromo: Escribir un programa que determine si una cadena de caracteres ingresada por el usuario es un palíndromo ¡Pero hazlo en C++! :)
 
 
 
