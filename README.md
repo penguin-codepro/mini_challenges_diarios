@@ -2,7 +2,11 @@
 
 ¡Bienvenido al repositorio de Desafíos Diarios de Programación! 🎉 **Puedes elegir los lenguajes y Herramientas que desees**.
 
-Cada Mini Challenge tiene un valor de **50 PenguPoints**. No olvides subir el link de tu repositorio al formulario, una vez logres concluir los ejercicios. 
+Cada Mini Challenge tiene un valor de **50 PenguPoints**. Recuerda que para ganar PenguPoints por Mini Challenges debes cumplir los siguiente requisitos:
+
+- Debes registrar tu progreso subiendolo al typeform de entrega https://penguinacademy.typeform.com/to/wdFfjXZf
+- El código presentado debe ser funcional
+- El código presentado debe cumplir con lo solicitado por el ejercicio
 
 ## **¡Manos a la obra!** 😎
 
