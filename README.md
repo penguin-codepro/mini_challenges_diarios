@@ -1,6 +1,6 @@
-# **Desafíos Diarios de Programación en Python**
+# **Desafíos Diarios de Programación**
 
-¡Bienvenido al repositorio de Desafíos Diarios de Programación! 🎉 
+¡Bienvenido al repositorio de Desafíos Diarios de Programación! 🎉 **Puedes elegir los lenguajes y Herramientas que desees**
 Cada Mini Challenge tiene un valor de **50 PenguPoints**. No olvides subir el link de tu repositorio al formulario, una vez logres concluir los ejercicios. 
 
 ## **¡Manos a la obra!** 😎
