@@ -121,7 +121,7 @@ En este reto, implementarán y optimizarán el algoritmo de **QuickSort**, enfoc
 
 ## **Entrega**
 
-- Comparte el link de tu repositorio en el siguiente link
+- Comparte el link de tu repositorio en el siguiente link https://penguinacademy.typeform.com/to/zdW0eV0e
 
 ## **Evaluación**
 
