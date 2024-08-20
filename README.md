@@ -2,154 +2,56 @@
 
 ¡Bienvenido al repositorio de Desafíos Diarios de Programación! 🎉 **Puedes elegir los lenguajes y Herramientas que desees**.
 
-Cada Mini Challenge tiene un valor de **50 PenguPoints**. Recuerda que para ganar PenguPoints por Mini Challenges debes cumplir los siguiente requisitos:
+Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar PenguPoints por Mini Challenges debes cumplir los siguiente requisitos:
 
 - Debes registrar tu progreso subiendo tus ejercicios al typeform de entrega https://penguinacademy.typeform.com/to/wdFfjXZf
 - El código presentado debe ser funcional
 - El código presentado debe cumplir con lo solicitado por el ejercicio
+- Debes enviar los minichallenges antes de que finalice el mes de Agosto
 
 ## **¡Manos a la obra!** 😎
 
-1. **Búsqueda en lista ordenada:** Implementa una función de búsqueda binaria que determine si un número está en una lista ordenada de 10 elementos.
+1. **Configuración Básica de Sockets:** Implementa un servidor de sockets básico que escuche en un puerto específico y acepte conexiones de un solo cliente. El servidor debería enviar un mensaje de bienvenida al cliente y luego cerrar la conexión. 
 
    ---
 
-2. **Ordenamiento simple:** Escribe una función que ordene una lista de 5 enteros utilizando cualquier método de ordenamiento que prefieras (por ejemplo, burbuja, inserción, selección).
+2. **Cliente Simple de Chat:** Desarrolla un cliente que se conecte a un servidor de sockets y permita al usuario enviar un mensaje simple a través de la terminal. Una vez enviado, el cliente debería cerrar la conexión. 
 
    ---
 
-3. **Recorrido en profundidad (DFS):** Implementa un recorrido DFS para un grafo simple con 5 nodos.
+3. **Manejo de Errores de Red:** Simula errores comunes como fallos de conexión o interrupciones durante la comunicación (por ejemplo, desconectar manualmente un cliente mientras el servidor intenta enviar un mensaje). Luego, implementa un manejo de excepciones para que el servidor recupere el control de manera segura.
 
    ---
 
-4. **Recorrido en amplitud (BFS):** Implementa un recorrido BFS para un grafo simple con 5 nodos.
+4. **Simulación de Logs Generados por un Servicio:** Crea un script que genere logs simulados en formato JSON, incluyendo la fecha, nombre del servicio, nivel de severidad y un mensaje descriptivo. Haz que los logs se impriman en la terminal cada 5 segundos. 
 
    ---
 
-5. **Camino más corto:** Dado un grafo pequeño con 5 nodos y 6 aristas, escribe una función que encuentre el camino más corto entre dos nodos especificados usando cualquier método que prefieras.
+5. **Creación de un Endpoint para Recibir Logs:** Implementa un servidor básico con un solo endpoint **/logs** que acepte solicitudes POST y simplemente almacene los logs recibidos en una lista en memoria. 
 
    ---
 
-6. **Árbol binario de búsqueda (BST):** Implementa solo la inserción en un árbol binario de búsqueda para 5 elementos.
+6. **Uso de Argumentos en la CLI:** Crea un script simple en Python o Bash que acepte un argumento de ubicación desde la línea de comandos e imprima un mensaje de bienvenida personalizado para esa ubicación (ejemplo: "Bienvenido a [Ciudad]"). 
 
    ---
 
-7. **Piloto de eventos (Priority Queue):** Implementa una cola de prioridad utilizando una lista para insertar y eliminar 5 elementos.
+7. **Script de Automatización para Instalación de Dependencias:** Escribe un script Bash que instale una o dos dependencias comunes (como requests en Python) y luego ejecute un mensaje de éxito. Esto te permite practicar la automatización de tareas repetitivas en la terminal.
 
    ---
 
-8. **Pilas y colas:** Implementa las operaciones básicas de una pila y/o una cola para 5 elementos.
+8. **Autenticación Básica con JWT:** Implementa un proceso simple para generar y validar un token JWT en una aplicación. Este token debería contener un ID de usuario y una fecha de expiración, y tu aplicación debería rechazar cualquier solicitud que no incluya un token válido.
 
    ---
 
-9. **Recursión Factorial:** Implementa una función recursiva para calcular el factorial de un número pequeño (por ejemplo, 5).
+9. **Creación de un Endpoint RESTful Sencillo:** Implementa un endpoint básico en un microservicio usando Python (Flask) o Node.js (Express). El endpoint debería recibir un ID de producto y devolver un mensaje simple (ejemplo: "Producto [ID] consultado correctamente").
 
    ---
 
-10. **Eliminar duplicados:** Implementa una función que elimine los elementos duplicados de una lista de 10 enteros.
+10. **Configuración de Base de Datos para un Microservicio:** Define un esquema de base de datos para un microservicio que gestione productos. Luego, escribe un script SQL simple para crear la tabla correspondiente y conectar el microservicio a la base de datos (puede ser SQLite para simplificar).
 
    ---
 
-11. **Clase de Punto 2D:** Crea una clase `Punto2D` con atributos `x` & `y`, y un método para imprimir sus coordenadas.
 
-   ---
-
-12. **Figura y Círculo:** Crea una clase base `Figura` con un método `imprimir` y una clase derivada `Círculo` que extienda `Figura` y sobreescriba el método `imprimir`.
-
-   ---
-
-13. **Cuenta bancaria:** Implementa una clase `CuentaBancaria` con métodos para depositar y consultar el saldo.
-
-   ---
-
-14. **Polimorfismo:** Crea una clase base `Animal` con un método `hacerSonido` y una clase derivada `Perro` que sobrescriba este método.
-
-   ---
-
-15. **Auto y Motor:** Implementa una clase `Auto` que contenga una instancia de una clase `Motor` con un método para describir el motor.
-
-   ---
-
-16. **Formas geométricas:** Define una clase base `FormaGeometrica` con métodos `calcular_area` y `calcular_perimetro`. Crea clases derivadas `Rectangulo` y `Circulo` que sobrescriban estos métodos.
-
-   ---
-
-17. **Creación de tabla:** Escribe una consulta SQL para crear una tabla `Usuarios` con columnas `id` y `nombre`.
-
-   ---
-
-18. **Inserción de datos:** Escribe una consulta SQL para insertar un solo registro en la tabla `Usuarios`.
-
-   ---
-
-19. **Consulta básica:** Escribe una consulta SQL para seleccionar todos los registros de la tabla `Usuarios`.
-
-   ---
-
-20. **Actualizar registros:** Escribe una consulta SQL para actualizar el nombre de un usuario específico en la tabla `Usuarios`.
-
-   ---
-
-21. **Eliminar registros:** Escribe una consulta SQL para eliminar un usuario específico de la tabla `Usuarios`.
-
-   ---
-# Mini Challenge Grande 
-## 100 puntos por completarlo satisfactoriamente y 500 puntos al algoritmo mas eficiente
-
-¡Bienvenidos al reto **Benchmarking de Eficiencia Algorítmica**!
-
-En este reto, implementarán y optimizarán el algoritmo de **QuickSort**, enfocándose en su eficiencia en términos de uso de memoria y velocidad de ejecución. Puedes usar cualquier lenguaje de programación de tu elección (Python, JavaScript, C++, etc.). El objetivo es producir la implementación más eficiente posible.
-
-## **Requisitos del Reto**
-
-- **Datos de Entrada**:
-  - Ordenarás arrays de enteros. Debes proporcionar tres conjuntos de datos de diferentes tamaños:
-    - **Conjunto pequeño**: 100 elementos.
-    - **Conjunto mediano**: 300 elementos.
-    - **Conjunto grande**: 500 elementos.
-
-- **Criterios de Evaluación**:
-  - **Velocidad de Ejecución**: El tiempo que tarda tu implementación en ordenar los arrays.
-  - **Uso de Memoria**: La cantidad de memoria utilizada durante la ejecución del algoritmo.
-  - **Correctitud**: El algoritmo debe ordenar correctamente todos los elementos del array.
-  - **Estabilidad**: Mantener el orden relativo de los elementos con valores iguales (opcional, pero valorado).
-
-- **Requisitos Específicos**:
-  - Implementa la versión estándar de QuickSort.
-  - Mide el tiempo de ejecución y uso de memoria utilizando herramientas adecuadas para el lenguaje de programación que elijas.
-  - Asegúrate de que tu implementación sea correcta y eficiente.
-
-## **Entrega**
-
-- Comparte el link de tu repositorio en el siguiente link https://penguinacademy.typeform.com/to/zdW0eV0e 
-
-## **Evaluación**
-
-- Serán evaluados en función de:
-  - La eficiencia de su implementación (velocidad y uso de memoria).
-  - La correctitud del algoritmo.
-
-## **Ejemplo de Evaluación**
-
-- **Conjunto Pequeño (100 elementos)**:
-  - **Tiempo de Ejecución**: X ms
-  - **Uso de Memoria**: Y MB
-
-- **Conjunto Mediano (300 elementos)**:
-  - **Tiempo de Ejecución**: A ms
-  - **Uso de Memoria**: B MB
-
-- **Conjunto Grande (500 elementos)**:
-  - **Tiempo de Ejecución**: M ms
-  - **Uso de Memoria**: N MB
-
-## **Consejos de Optimización**
-
-- Utiliza técnicas de recursión eficiente o iteración en lugar de recursión profunda.
-- Evita el uso excesivo de memoria adicional.
-- Asegúrate de tener un control eficiente sobre las iteraciones para evitar bucles innecesarios y redundantes.
-
-¡Buena suerte y que gane la implementación más eficiente!
-
+¡Buena suerte y a divertirse codeando! 🐧
 
 
