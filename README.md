@@ -4,38 +4,38 @@
 
 Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar PenguPoints por Mini Challenges debes cumplir los siguiente requisitos:
 
-- Debes registrar tu progreso subiendo tus ejercicios al typeform de entrega https://penguinacademy.typeform.com/to/qWgNbA5J
+- Debes registrar tu progreso subiendo tus ejercicios al typeform de entrega https://penguinacademy.typeform.com/to/eQckigXA
 - El código presentado debe ser funcional
 - El código presentado debe cumplir con lo solicitado por el ejercicio
 - Debes enviar los minichallenges antes de que finalice el mes de Agosto
 
 ## **¡Manos a la obra!** 😎
 
-1. **Configuración Básica de Sockets:** Implementa un servidor de sockets básico que escuche en un puerto específico y acepte conexiones de un solo cliente. El servidor debería enviar un mensaje de bienvenida al cliente y luego cerrar la conexión. 
+1. **Votación Relámpago: "Mejor Snack"** Crea un formulario con HTML y JavaScript donde los usuarios seleccionen su snack favorito. No es necesario un backend, solo muestra el snack con más votos en la pantalla.
 
    ---
 
-2. **Cliente Simple de Chat:** Desarrolla un cliente que se conecte a un servidor de sockets y permita al usuario enviar un mensaje simple a través de la terminal. Una vez enviado, el cliente debería cerrar la conexión. 
+2. **Voto Dinámico: "Personaje Favorito"** Haz una lista de personajes y un botón de "votar" junto a cada uno. Con JavaScript, actualiza el contador de votos sin recargar la página.
 
    ---
 
-3. **Manejo de Errores de Red:** Simula errores comunes como fallos de conexión o interrupciones durante la comunicación (por ejemplo, desconectar manualmente un cliente mientras el servidor intenta enviar un mensaje). Luego, implementa un manejo de excepciones para que el servidor recupere el control de manera segura.
+3. **Autenticación Básica:** Implementa un formulario de inicio de sesión solo con validaciones de frontend (HTML y JavaScript). Si el usuario ingresa "admin" como usuario y "1234" como contraseña, redirige a una nueva página.
 
    ---
 
-4. **Simulación de Logs Generados por un Servicio:** Crea un script que genere logs simulados en formato JSON, incluyendo la fecha, nombre del servicio, nivel de severidad y un mensaje descriptivo. Haz que los logs se impriman en la terminal cada 5 segundos. 
+4. **XSS Prevention:** Crea una página con un campo de entrada. Escribe un pequeño script que proteja la página de un ataque XSS escapando cualquier código que el usuario intente ingresar. Muestra un mensaje de éxito si el sistema detecta intento de código malicioso.
 
    ---
 
-5. **Creación de un Endpoint para Recibir Logs:** Implementa un servidor básico con un solo endpoint **/logs** que acepte solicitudes POST y simplemente almacene los logs recibidos en una lista en memoria. 
+5. **JWT Flash: "Token Básico":** Simula la creación de un token JWT (JSON Web Token) en el frontend usando JavaScript. El token puede ser una simple cadena codificada en base64 que incluya el nombre del usuario.
 
    ---
 
-6. **Uso de Argumentos en la CLI:** Crea un script simple en Python o Bash que acepte un argumento de ubicación desde la línea de comandos e imprima un mensaje de bienvenida personalizado para esa ubicación (ejemplo: "Bienvenido a [Ciudad]"). 
+6. **Pruebas Unitarias Express: "Ping Pong Sencillo"** Crea una función en JavaScript que devuelva "Ping" para números pares y "Pong" para impares. Añade una pequeña prueba unitaria usando Jest o Pytest en una sola función.
 
    ---
-
-7. **Script de Automatización para Instalación de Dependencias:** Escribe un script Bash que instale una o dos dependencias comunes (como requests en Python) y luego ejecute un mensaje de éxito. Esto te permite practicar la automatización de tareas repetitivas en la terminal.
+ 
+7. **Desafío CRUD de Contactos: "Agenda Sencilla":** Crea una lista de contactos con JavaScript puro, haz un CRUD donde los usuarios puedan agregar nombres y eliminarlos de la lista. No es necesario un backend.
 
    ---
 
@@ -43,14 +43,52 @@ Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar
 
    ---
 
-9. **Creación de un Endpoint RESTful Sencillo:** Implementa un endpoint básico en un microservicio usando Python (Flask) o Node.js (Express). El endpoint debería recibir un ID de producto y devolver un mensaje simple (ejemplo: "Producto [ID] consultado correctamente").
+9. **Bloqueo de Fuerza Bruta: "Seguridad en 5 minutos":** Implementa una función que bloquee el inicio de sesión después de tres intentos fallidos consecutivos en menos de un minuto.
 
    ---
 
-10. **Configuración de Base de Datos para un Microservicio:** Define un esquema de base de datos para un microservicio que gestione productos. Luego, escribe un script SQL simple para crear la tabla correspondiente y conectar el microservicio a la base de datos (puede ser SQLite para simplificar).
+10. **Conexiones Simultáneas: "Juego de Sockets":**  Simula una conexión con múltiples clientes en un servidor de chat. Cada vez que un cliente se conecta, envía un mensaje a todos los demás.
+
+   ---
+   
+11. **Chat Básico: "Envío de Mensajes Rápido"** Implementa una función de chat en tiempo real que permita enviar mensajes entre dos usuarios. Los mensajes deben aparecer en la pantalla sin necesidad de refrescar la página.
+    
+   ---
+
+12. **Validación de Formulario Flash: "Ingreso Sencillo"** Crea un formulario de registro con validaciones básicas: email válido, contraseña con al menos 6 caracteres y confirmación de contraseña que coincida.
 
    ---
 
+13. **El Más Rápido en Cifrar: "Texto Seguro":** Implementa una pequeña función que cifre un texto usando un algoritmo de cifrado simétrico, como AES, y permita descifrarlo.
+
+   ---
+
+14. **Sistema de Votos: "¿Cuál es tu color favorito?"** Los usuarios votan por su color favorito entre tres opciones. La aplicación actualiza en tiempo real el color con más votos y cambia el color de fondo según el ganador.
+   ---
+
+15. **Hash It!: "Hash de Contraseñas Simples":** Usa una función hash simplificada (como SHA-256) en JavaScript para mostrar cómo se transformaría una contraseña. No es necesario conectar a un backend.
+
+   ---
+
+16. **Tienda de Snacks: "Cookies Simples"** Usa cookies de JavaScript para recordar la elección de snack de un usuario. Si el usuario vuelve a la página, muestra su última selección de snack.
+
+   ---
+ 
+17. **Testing de Errores: "Prueba Simple":** Crea una función JavaScript que arroje un error si recibe un número negativo y añade una prueba unitaria simple con Jest para verificarlo.
+
+   ---
+
+18. **Validador de Contraseñas con TDD:** Implementa un sistema que valide contraseñas según los siguientes criterios: al menos 8 caracteres, una letra mayúscula, una letra minúscula, un número y un carácter especial. Debes aplicar el ciclo de TDD (Red-Green-Refactor).
+
+   ---
+
+19. **Cookie Maker:** Desarrolla un script que guarde datos de usuario en una cookie segura con las banderas HttpOnly y Secure activadas. Haz que el usuario pueda elegir un mensaje y que este se guarde como cookie y se muestre en su próxima visita
+
+   ---
+
+20. **Testea tu Token:** Crea una función en Node.js que genere y valide un JWT, luego escribe pruebas unitarias con Jest para verificar tokens válidos y falsos. Asegúrate de cubrir tanto casos exitosos como errores de validación.
+
+   ---
 
 ¡Buena suerte y a divertirse codeando! 🐧
 
