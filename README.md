@@ -7,7 +7,7 @@ Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar
 - Debes registrar tu progreso subiendo tus ejercicios al typeform de entrega https://penguinacademy.typeform.com/to/eQckigXA
 - El código presentado debe ser funcional
 - El código presentado debe cumplir con lo solicitado por el ejercicio
-- Debes enviar los minichallenges antes de que finalice el mes de Agosto
+- Debes enviar los minichallenges antes de que finalice el mes de Septiembre
 
 ## **¡Manos a la obra!** 😎
 
