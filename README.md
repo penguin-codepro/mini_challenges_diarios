@@ -35,18 +35,19 @@ Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar
 
    ---
  
-7. **Administrador de Cookies:** Implementar funciones para establecer y leer cookies seguras. 
+7. **Administrador de Cookies:** Implementar funciones para establecer y leer cookies seguras.
+   
    ---
 
-8. **CRUD de Archivos:** Crear un sistema CRUD que persista datos en un archivo JSON.  
-
-   ---
-
-9. **Búsqueda y Ordenamiento:** Agregar funcionalidad de búsqueda y ordenamiento a una colección de datos. 
+9. **CRUD de Archivos:** Crear un sistema CRUD que persista datos en un archivo JSON.  
 
    ---
 
-10. **Sanitizador de Entrada:** Crear una función que limpie y valide entrada de usuario contra XSS.  
+10. **Búsqueda y Ordenamiento:** Agregar funcionalidad de búsqueda y ordenamiento a una colección de datos. 
+
+   ---
+
+11. **Sanitizador de Entrada:** Crear una función que limpie y valide entrada de usuario contra XSS.  
 
    ---
    
