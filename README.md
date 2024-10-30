@@ -4,90 +4,89 @@
 
 Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar PenguPoints por Mini Challenges debes cumplir los siguiente requisitos:
 
-- Debes registrar tu progreso subiendo tus ejercicios al typeform de entrega https://penguinacademy.typeform.com/to/Ydmbeny0
+- Debes registrar tu progreso subiendo tus ejercicios al typeform de entrega 
 - El código presentado debe ser funcional
 - El código presentado debe cumplir con lo solicitado por el ejercicio
-- Debes enviar los minichallenges antes de que finalice el mes de Septiembre
+- Debes enviar los minichallenges antes de que finalice el mes de Noviembre
 
 ## **¡Manos a la obra!** 😎
 
-1. **Validador de Palíndromos:** Crea una función que verifique si una palabra o frase es un palíndromo (se lee igual de izquierda a derecha y viceversa).
+1. **Mini Servidor Express:** Crear un servidor Express básico que responda "Hello World" en la ruta principal. 
 
    ---
 
-2. **Reorganización de Nombres:** Dado un array de objetos con nombres de personas (nombre, apellido), crea una función que los reorganice en orden alfabético por apellido.
-
-
+2. **Maestro de Rutas:** Implementar 4 rutas diferentes (GET) que devuelvan diferentes tipos de respuestas (texto, JSON, HTML).
 
    ---
 
-3. **Detección de Números Primos:** Escribe una función que reciba un número y determine si es primo o no. Usa un enfoque eficiente para números grandes.
+3. **Manejador de Métodos:** Crear un endpoint que responda de manera única a GET, POST, PUT y DELETE. 
 
    ---
 
-4. **Adivina el Número:** Crea un juego en el que el usuario debe adivinar un número entre 1 y 100 con la menor cantidad de intentos posible. Da pistas como "mayor" o "menor".
+4. **Encriptador de contraseñas:** Implementar una función que haga hash de contraseñas usando bcrypt.  
 
    ---
 
-5. **Conversor de Fechas:** Crea una función que convierta una fecha de formato "DD-MM-YYYY" a "YYYY/MM/DD".
+5. **Formateador de Tokens:** Crear una función que tome un token JWT y lo divida en sus tres componentes (header, payload, signature). 
 
    ---
 
-6. **Calculadora de Cambio de Monedas:** Programa que convierta entre diferentes divisas (ej: USD a EUR, o PYG a BRL), usando tasas de cambio predefinidas.
+6. **Generador de Tokens:** Crear un generador de JWT simple con payload personalizable. 
 
    ---
  
-7. **Simulador de Dado:** Crea un programa que simule el lanzamiento de un dado de 6 caras.
+7. **Administrador de Cookies:** Implementar funciones para establecer y leer cookies seguras. 
+   ---
+
+8. **CRUD de Archivos:** Crear un sistema CRUD que persista datos en un archivo JSON.  
 
    ---
 
-8. **Consulta de API del Clima:** Usa una API pública de clima (como OpenWeather) para mostrar el clima actual de una ciudad ingresada por el usuario.
+9. **Búsqueda y Ordenamiento:** Agregar funcionalidad de búsqueda y ordenamiento a una colección de datos. 
 
    ---
 
-9. **Cifrado César:** Implementa un cifrado simple que desplace cada letra de una cadena un número específico de posiciones en el alfabeto.
-
-   ---
-
-10. **Generador de Contraseñas Seguras:** Crea una función que genere contraseñas aleatorias seguras con al menos una mayúscula, un número y un carácter especial.
+10. **Sanitizador de Entrada:** Crear una función que limpie y valide entrada de usuario contra XSS.  
 
    ---
    
-11. **Comparador de Listas:** Escribe una función que reciba dos listas y devuelva una lista con los elementos comunes.
+11. **Protector CSRF:** Implementar un sistema simple de tokens CSRF.  
 
    ---
 
-12. **Cola Prioritaria de Tareas:** Simula una cola de prioridad donde las tareas más urgentes tienen mayor prioridad para ser ejecutadas primero.
+12. **Generador de URLs Amigables:** Convertir títulos de posts en URLs amigables (eliminar espacios, caracteres especiales, etc.) 
 
    ---
 
-13. **Reversor de Cadenas:** Escribe una función que reciba una cadena de texto y la devuelva invertida (ej: "hola" → "aloh").Implementa una pequeña función que cifre un texto usando un algoritmo de cifrado simétrico, como AES, y permita descifrarlo.
+13. **Manejador de Errores HTTP:** Crear un sistema que maneje diferentes tipos de errores HTTP y devuelva respuestas apropiadas 
 
    ---
 
-14. **Juego del Ahorcado:** Implementa una versión simple del juego del ahorcado, donde el usuario debe adivinar una palabra letra por letra.
-
-15. **Anagramas:** Crea una función que determine si dos cadenas de texto son anagramas (ej. "amor" y "roma").
+14. **Sistema de Ranking:** Implementar un algoritmo que calcule la posición de posts basado en votos y tiempo.
+   
    ---
 
-16. **Algoritmo de Coincidencia Parcial:** Implementa un algoritmo que reciba dos cadenas y determine cuántos caracteres tienen en común en las mismas posiciones (como en el juego "Wordle").
+15. **Debouncer:** Implementar una función que limite la frecuencia de ejecución de operaciones (útil para votación).
+   ---
+
+16. **Buffer de Operaciones:** Crear un sistema que agrupe múltiples operaciones similares en una sola.
 
    ---
  
-17. **Detector de Palabras Repetidas:** Escribe una función que reciba una cadena de texto y determine qué palabras se repiten más frecuentemente.
+17. **Analizador de Cadenas de Consulta:** Crear un parser que convierta query strings en objetos y viceversa.
 
    ---
 
-18. **Buscador de GIFs:** Consulta la API de Giphy o Tenor para buscar y mostrar un GIF basado en una palabra clave ingresada.
+18. **Formateador de Fechas:** Crear un sistema que maneje diferentes formatos de fecha y calcule tiempos relativos.
 
    ---
 
-19. **Cola de Clientes:** Crea un programa que simule una cola (queue) de clientes que esperan en una tienda. Los clientes ingresan su nombre, y el programa los atiende en orden de llegada.
+19. **Comprobador de Permisos:** Crea una función que verifique si un usuario tiene los permisos necesarios para una acción.
 
 
    ---
 
-20. **Tabla Hash de Contactos:** Crea una tabla hash para almacenar nombres de personas y sus números de teléfono. Implementa las funciones para agregar, eliminar y buscar contactos.
+20. **Validador de Tarjeta:** Función que verifica si un número de tarjeta de crédito es válido usando el algoritmo de Luhn. 
 
    ---
 
