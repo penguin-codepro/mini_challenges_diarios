@@ -39,15 +39,15 @@ Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar
    
    ---
 
-9. **CRUD de Archivos:** Crear un sistema CRUD que persista datos en un archivo JSON.  
+8. **CRUD de Archivos:** Crear un sistema CRUD que persista datos en un archivo JSON.  
 
    ---
 
-10. **Búsqueda y Ordenamiento:** Agregar funcionalidad de búsqueda y ordenamiento a una colección de datos. 
+9. **Búsqueda y Ordenamiento:** Agregar funcionalidad de búsqueda y ordenamiento a una colección de datos. 
 
    ---
 
-11. **Sanitizador de Entrada:** Crear una función que limpie y valide entrada de usuario contra XSS.  
+10. **Sanitizador de Entrada:** Crear una función que limpie y valide entrada de usuario contra XSS.  
 
    ---
    
@@ -68,6 +68,7 @@ Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar
    ---
 
 15. **Debouncer:** Implementar una función que limite la frecuencia de ejecución de operaciones (útil para votación).
+
    ---
 
 16. **Buffer de Operaciones:** Crear un sistema que agrupe múltiples operaciones similares en una sola.
@@ -83,7 +84,6 @@ Cada Mini Challenge tiene un valor de **5 PenguPoints**. Recuerda que para ganar
    ---
 
 19. **Comprobador de Permisos:** Crea una función que verifique si un usuario tiene los permisos necesarios para una acción.
-
 
    ---
 
